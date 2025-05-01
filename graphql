@@ -1,0 +1,7 @@
+AutoResearcher-AI/
+├── app.py                  # Main Streamlit app
+├── sample_paper.pdf        # Example PDF for testing
+├── requirements.txt        # Dependencies
+├── README.md               # Project overview
+└── assets/
+    └── logo.png            # Optional: Add app logo or visuals
