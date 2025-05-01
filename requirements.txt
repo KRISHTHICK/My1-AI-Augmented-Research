@@ -1,0 +1,16 @@
+
+---
+
+### 📦 `requirements.txt`
+```txt
+streamlit
+langchain
+ollama
+chromadb
+pdfplumber
+pdf2image
+pytesseract
+requests
+beautifulsoup4
+matplotlib
+seaborn
