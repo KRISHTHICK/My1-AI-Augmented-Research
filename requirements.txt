@@ -1,8 +1,3 @@
-
----
-
-### 📦 `requirements.txt`
-```txt
 streamlit
 langchain
 ollama
@@ -14,3 +9,8 @@ requests
 beautifulsoup4
 matplotlib
 seaborn
+
+# pip install --upgrade langchain-community
+# pip install streamlit langchain langchain-community langchain-ollama langchain-huggingface sentence-transformers faiss-cpu
+# pip install torch==2.1.2
+# streamlit run app1.py
