@@ -14,3 +14,7 @@ seaborn
 # pip install streamlit langchain langchain-community langchain-ollama langchain-huggingface sentence-transformers faiss-cpu
 # pip install torch==2.1.2
 # streamlit run app1.py
+
+
+# pip install -U streamlit langchain langchain-community langchain-ollama langchain-huggingface faiss-cpu torch unstructured
+# streamlit run app2.py
